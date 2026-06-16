@@ -1,0 +1,1658 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<!-- Mirrored from unicktheme.com/sopot-html/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 08 May 2023 17:24:39 GMT -->
+
+<!-- Mirrored from php.kitmama.top/sopot/index3.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 24 Dec 2025 07:22:49 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home Three || sopot || sopot PHP Template</title>
+    <!-- favicons Icons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
+    <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
+    <meta name="description" content="Sopot HTML Template For Charity" />
+
+    <!-- fonts -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+        rel="stylesheet">
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
+    <link rel="stylesheet" href="assets/vendors/animate/custom-animate.css" />
+    <link rel="stylesheet" href="assets/vendors/fontawesome/css/all.min.css" />
+    <link rel="stylesheet" href="assets/vendors/jarallax/jarallax.css" />
+    <link rel="stylesheet" href="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.css" />
+    <link rel="stylesheet" href="assets/vendors/nouislider/nouislider.min.css" />
+    <link rel="stylesheet" href="assets/vendors/nouislider/nouislider.pips.css" />
+    <link rel="stylesheet" href="assets/vendors/odometer/odometer.min.css" />
+    <link rel="stylesheet" href="assets/vendors/swiper/swiper.min.css" />
+    <link rel="stylesheet" href="assets/vendors/sopot-icons/style.css">
+    <link rel="stylesheet" href="assets/vendors/tiny-slider/tiny-slider.min.css" />
+    <link rel="stylesheet" href="assets/vendors/reey-font/stylesheet.css" />
+    <link rel="stylesheet" href="assets/vendors/owl-carousel/owl.carousel.min.css" />
+    <link rel="stylesheet" href="assets/vendors/owl-carousel/owl.theme.default.min.css" />
+    <link rel="stylesheet" href="assets/vendors/bxslider/jquery.bxslider.css" />
+    <link rel="stylesheet" href="assets/vendors/bootstrap-select/css/bootstrap-select.min.css" />
+    <link rel="stylesheet" href="assets/vendors/vegas/vegas.min.css" />
+    <link rel="stylesheet" href="assets/vendors/jquery-ui/jquery-ui.css" />
+    <link rel="stylesheet" href="assets/vendors/timepicker/timePicker.css" />
+
+    <!-- template styles -->
+    <link rel="stylesheet" href="assets/css/sopot.css" />
+    <link rel="stylesheet" href="assets/css/sopot-responsive.css" />
+</head>
+
+<body>
+    <div class="preloader">
+        <img class="preloader__image" width="60" src="assets/images/loader.png" alt="" />
+    </div>
+    <!-- /.preloader -->
+
+
+<div class="page-wrapper"><header class="main-header clearfix">
+            <div class="main-header__top clearfix">
+                <div class="container clearfix">
+                    <div class="main-header__top-inner clearfix">
+                        <div class="main-header__top-left">
+                            <ul class="list-unstyled main-header__top-address">
+                                <li>
+                                    <div class="icon">
+                                        <span class="icon-call"></span>
+                                    </div>
+                                    <div class="text">
+                                        <p><a href="tel:5204654544">+5204654544</a></p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="icon">
+                                        <span class="icon-envelope"></span>
+                                    </div>
+                                    <div class="text">
+                                        <p><a href="mailto:demo@example.com">demo@example.com</a></p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="icon">
+                                        <span class="icon-place"></span>
+                                    </div>
+                                    <div class="text">
+                                        <p>24/21, 2nd Rangpur, Sapla</p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="main-header__top-right">
+                            <ul class="list-unstyled main-header__top-right-content">
+                                <li><a href="#">Login</a></li>
+                                <li><a href="#">Help You</a></li>
+                                <li><a href="#" class="search-toggler"> <i class="fa fa-search"></i> Search</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <nav class="main-menu clearfix">
+                <div class="container clearfix">
+                    <div class="main-menu-wrapper clearfix">
+                        <div class="main-menu-wrapper__left">
+                            <div class="main-menu-wrapper__logo">
+                                <a href="index-2.html"><img src="assets/images/resources/logo-1.png" alt=""></a>
+                            </div>
+                        </div>
+                        <div class="main-menu-wrapper__right">
+                            <div class="main-menu-wrapper__main-menu">
+                                <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
+                                <ul class="main-menu__list">
+	<li class="dropdown">
+		<a href="index-2.html">Home</a>
+		<ul>
+			<li>
+				<a href="index-2.html">Home One</a>
+			</li>
+			<li><a href="index2.html">Home Two</a></li>
+			<li><a href="index3.html">Home Three</a></li>
+		</ul>
+	</li>
+	<li><a href="about.html">About</a></li>
+	<li class="dropdown">
+		<a href="#">Pages</a>
+		<ul>
+			<li><a href="team.html">Team</a></li>
+			<li><a href="team-details.html">Team Details</a></li>
+			<li><a href="projects.html">Project</a></li>
+			<li><a href="project-details.html">Project Details</a></li>
+			<li><a href="testimonials.html">Testimonial</a></li>
+			<li><a href="gallery.html">Gallery</a></li>
+			<li><a href="404.html">404 Error</a></li>
+		</ul>
+	</li>
+	<li class="dropdown">
+		<a href="#">Donation</a>
+		<ul>
+			<li><a href="donation.html">Donation</a></li>
+			<li><a href="donation-list.html">Donation List</a></li>
+			<li><a href="donation-details.html">Donation Details</a></li>
+			<li><a href="donate-now.html">Donate Now</a></li>
+		</ul>
+	</li>
+	<li>
+		<a href="events.html">Events</a>
+	</li>
+	<li class="dropdown">
+		<a href="#">Blog</a>
+		<ul>
+			<li><a href="blog-v-1.html">Blog V-1</a></li>
+			<li><a href="blog-v-2.html">Blog V-2</a></li>
+			<li><a href="blog-sidebar.html">Blog Sidebar</a></li>
+			<li><a href="blog-details.html">Blog Details</a></li>
+		</ul>
+	</li>
+	<li><a href="contact.html">Contact</a></li>
+</ul>                            </div>
+                            <a href="donate-now.html" class="thm-btn main-header__btn">Donate Now</a>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </header>
+
+        <div class="stricky-header stricked-menu main-menu">
+            <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
+        </div><!-- /.stricky-header -->
+<!--Main Slider Start-->
+<section class="main-slider main-slider-three">
+            <div class="swiper-container thm-swiper__slider" data-swiper-options='{"slidesPerView": 1, "loop": true,
+                "effect": "fade",
+                "pagination": {
+                    "el": "#main-slider-pagination",
+                    "type": "bullets",
+                    "clickable": true
+                },
+                "navigation": {
+                    "nextEl": "#main-slider__swiper-button-next",
+                    "prevEl": "#main-slider__swiper-button-prev"
+                },
+                "autoplay": {
+                    "delay": 5000
+                }}'>
+
+                <div class="swiper-wrapper">
+
+                    <!--Start Swiper Slide Single-->
+                    <div class="swiper-slide">
+                        <div class="image-layer"
+                            style="background-image: url(assets/images/backgrounds/main-slider-1-1.jpg);"></div>
+                        <div class="main-slider__three-map">
+                            <img src="assets/images/shapes/main-slider-three-map.png" alt="">
+                        </div>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-xl-12">
+                                    <div class="main-slider__content">
+                                        <h2>Give the <span>Poor</span> Help <br> for Families.</h2>
+                                        <p>There are many variations of passages of Lorem Ipsum Fasts <br> by injected
+                                            humour, or randomised words which... </p>
+                                        <a href="about.html" class="thm-btn main-slider__btn">Leran More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Swiper Slide Single-->
+
+                    <!--Start Swiper Slide Single-->
+                    <div class="swiper-slide">
+                        <div class="image-layer"
+                            style="background-image: url(assets/images/backgrounds/main-slider-1-2.jpg);"></div>
+                        <div class="main-slider__three-map">
+                            <img src="assets/images/shapes/main-slider-three-map.png" alt="">
+                        </div>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-xl-12">
+                                    <div class="main-slider__content">
+                                        <h2>Give the <span>Poor</span> Help <br> for Families.</h2>
+                                        <p>There are many variations of passages of Lorem Ipsum Fasts <br> by injected
+                                            humour, or randomised words which... </p>
+                                        <a href="about.html" class="thm-btn main-slider__btn">Leran More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Swiper Slide Single-->
+
+                    <!--Start Swiper Slide Single-->
+                    <div class="swiper-slide">
+                        <div class="image-layer"
+                            style="background-image: url(assets/images/backgrounds/main-slider-1-3.jpg);"></div>
+                        <div class="main-slider__three-map">
+                            <img src="assets/images/shapes/main-slider-three-map.png" alt="">
+                        </div>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-xl-12">
+                                    <div class="main-slider__content">
+                                        <h2>Give the <span>Poor</span> Help <br> for Families.</h2>
+                                        <p>There are many variations of passages of Lorem Ipsum Fasts <br> by injected
+                                            humour, or randomised words which... </p>
+                                        <a href="about.html" class="thm-btn main-slider__btn">Leran More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Swiper Slide Single-->
+
+                </div>
+
+                <div class="swiper-pagination" id="main-slider-pagination"></div>
+                <div class="main-slider__nav-three">
+                    <div class="swiper-button-prev" id="main-slider__swiper-button-next">
+                        <i class="fa fa-long-arrow-alt-left"></i>
+                    </div>
+                    <div class="swiper-button-next" id="main-slider__swiper-button-prev">
+                        <i class="fa fa-long-arrow-alt-right"></i>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+        <!--Main Slider End--><!--About One Start-->
+<section class="about-one pd-120-0-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6">
+                        <div class="about-one__left wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
+                            <div class="about-one__img-box">
+                                <div class="about-one__img">
+                                    <img src="assets/images/resources/about-one-img-1.jpg" alt="">
+                                </div>
+                                <div class="about-one__small-img wow zoomIn animated animated" data-wow-delay="500ms"
+                                    data-wow-duration="2500ms">
+                                    <img src="assets/images/resources/about-one-small-img.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-6">
+                        <div class="about-one__right">
+                            <div class="about-one__right-content">
+                                <div class="section-title text-left">
+                                    <span class="section-title__tagline">Our About Us</span>
+                                    <h2 class="section-title__title">The Community To Give as Children Poor.</h2>
+                                </div>
+                                <p class="about-one__text">Lorem ipsum is simply free text dolor sit amet,
+                                    consecteturadipisicing elit sed do eiusmod tempor incididunt ut labore et dolore
+                                    magna aliqua lonm andhn.</p>
+                                <ul class="list-unstyled about-one__points">
+                                    <li>
+                                        <div class="icon">
+                                            <span class="icon-comment"></span>
+                                        </div>
+                                        <div class="text">
+                                            <h4>It service for business network.</h4>
+                                            <p>ill give you a complete account of the system, and
+                                                expound the actual teachings...</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="icon">
+                                            <span class="icon-comment"></span>
+                                        </div>
+                                        <div class="text">
+                                            <h4>Business success rate solving.</h4>
+                                            <p>ill give you a complete account of the system, and
+                                                expound the actual teachings...</p>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="about-one__bottom-video-box">
+                                    <div class="about-one__btn-box">
+                                        <a href="about.html" class="thm-btn about-one__btn">About More</a>
+                                    </div>
+                                    <div class="about-one__video-link">
+                                        <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ" class="video-popup">
+                                            <div class="about-one__video-icon">
+                                                <span class="fa fa-play"></span>
+                                                <i class="ripple"></i>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--About One End--><!--help-people Start-->
+<section class="help-people">
+            <div class="help-people-bg" style="background-image: url(assets/images/backgrounds/help-people-bg.jpg);">
+            </div>
+            <div class="container">
+                <div class="help-people__inner wow fadeInUp" data-wow-delay="300ms">
+                    <div class="help-people__sub-title-box">
+                        <p>For Good</p>
+                    </div>
+                    <h3 class="help-people__title">Become Volunteer</h3>
+                    <p class="help-people__text">Lorem ipsum dolor sit amet, consectetur nod adipisicing elit sed do
+                        eiusmod tempor incididunt ut labore et dolore.</p>
+                    <a href="team-details.html" class="thm-btn help-people__btn">Join Us Now</a>
+                </div>
+            </div>
+        </section>
+        <!--help-people End--><!--Project One Start-->
+<section class="project-one">
+            <div class="container">
+                <div class="section-title text-center">
+                    <span class="section-title__tagline">Our Causes Events</span>
+                    <h2 class="section-title__title">We Popular To Provide <br> Best Projects.</h2>
+                </div>
+                <div class="row">
+                    <div class="col-xl-4 col-lg-4 col-md-12 wow fadeInUp" data-wow-delay="100ms">
+                        <!--Project One Single-->
+                        <div class="project-one__single">
+                            <div class="project-one__img">
+                                <img src="assets/images/project/project-1-1.jpg" alt="">
+                                <div class="project-one__content">
+                                    <p class="project-one__sub-title">Our Best Projects</p>
+                                    <h3 class="project-one__title"><a href="project-details.html">Event of Shares</a>
+                                    </h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="200ms">
+                        <!--Project One Single-->
+                        <div class="project-one__single">
+                            <div class="project-one__img">
+                                <img src="assets/images/project/project-1-2.jpg" alt="">
+                                <div class="project-one__content">
+                                    <p class="project-one__sub-title">Our Best Projects</p>
+                                    <h3 class="project-one__title"><a href="project-details.html">Provides them Poor</a>
+                                    </h3>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Project One Single-->
+                        <div class="project-one__single">
+                            <div class="project-one__img">
+                                <img src="assets/images/project/project-1-3.jpg" alt="">
+                                <div class="project-one__content">
+                                    <p class="project-one__sub-title">Our Best Projects</p>
+                                    <h3 class="project-one__title"><a href="project-details.html">Children of Poor</a>
+                                    </h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="300ms">
+                        <!--Project One Single-->
+                        <div class="project-one__single">
+                            <div class="project-one__img">
+                                <img src="assets/images/project/project-1-4.jpg" alt="">
+                                <div class="project-one__content">
+                                    <p class="project-one__sub-title">Our Best Projects</p>
+                                    <h3 class="project-one__title"><a href="project-details.html">History Of Tibet</a>
+                                    </h3>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Project One Single-->
+                        <div class="project-one__single">
+                            <div class="project-one__img">
+                                <img src="assets/images/project/project-1-5.jpg" alt="">
+                                <div class="project-one__content">
+                                    <p class="project-one__sub-title">Our Best Projects</p>
+                                    <h3 class="project-one__title"><a href="project-details.html">Drought
+                                            Information</a>
+                                    </h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Project One End--><!--Help The Causes Start-->
+<section class="help-the-causes">
+            <div class="help-the-causes__wrapper">
+                <div class="help-the-causes__left">
+                    <div class="help-the-causes__left-bg"
+                        style="background-image: url(assets/images/backgrounds/help-the-causes-left-bg.jpg);"></div>
+                </div>
+                <div class="help-the-causes__right">
+                    <div class="help-the-causes__content-bg"
+                        style="background-image: url(assets/images/backgrounds/help-the-causes-content-bg.jpg);"></div>
+                    <div class="help-the-causes__content-box">
+                        <div class="section-title text-left">
+                            <span class="section-title__tagline">I Each drop creates sea</span>
+                            <h2 class="section-title__title">A Concreate help for the Causes</h2>
+                        </div>
+                        <p class="help-the-causes__text">Lorem ipsum is simply free text dolor sit amet, consectetur
+                            adipisicing elit sed do eiusmod.</p>
+                        <div class="progress-levels">
+                            <!--Skill Box-->
+                            <div class="progress-box">
+                                <div class="inner count-box">
+                                    <div class="text">Recurring Donations</div>
+                                    <div class="bar">
+                                        <div class="bar-innner">
+                                            <div class="skill-percent">
+                                                <span class="count-text" data-speed="3000" data-stop="82">0</span>
+                                                <span class="percent">%</span>
+                                            </div>
+                                            <div class="bar-fill" data-percent="82"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--Skill Box-->
+                            <div class="progress-box last-child">
+                                <div class="inner count-box">
+                                    <div class="text">One Time Donations</div>
+                                    <div class="bar">
+                                        <div class="bar-innner">
+                                            <div class="skill-percent">
+                                                <span class="count-text" data-speed="3000" data-stop="88">0</span>
+                                                <span class="percent">%</span>
+                                            </div>
+                                            <div class="bar-fill" data-percent="88"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <a href="about.html" class="thm-btn skill-one__btn">More Info</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Help The Causes End--><!--Brand One Start-->
+<section class="brand-one brand-two">
+            <div class="container">
+                <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100, "slidesPerView": 5, "autoplay": { "delay": 5000 }, "breakpoints": {
+                    "0": {
+                        "spaceBetween": 30,
+                        "slidesPerView": 2
+                    },
+                    "375": {
+                        "spaceBetween": 30,
+                        "slidesPerView": 2
+                    },
+                    "575": {
+                        "spaceBetween": 30,
+                        "slidesPerView": 3
+                    },
+                    "767": {
+                        "spaceBetween": 50,
+                        "slidesPerView": 4
+                    },
+                    "991": {
+                        "spaceBetween": 50,
+                        "slidesPerView": 5
+                    },
+                    "1199": {
+                        "spaceBetween": 100,
+                        "slidesPerView": 5
+                    }
+                }}'>
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <a href="#"><img src="assets/images/brand/brand-1-1.png" alt=""></a>
+                            <div class="brand-one__overly">
+                                <a href="#"><img src="assets/images/brand/overly-brand-1-1.png" alt=""></a>
+                            </div>
+                        </div><!-- /.swiper-slide -->
+                        <div class="swiper-slide">
+                            <a href="#"><img src="assets/images/brand/brand-1-2.png" alt=""></a>
+                            <div class="brand-one__overly">
+                                <a href="#"><img src="assets/images/brand/overly-brand-1-2.png" alt=""></a>
+                            </div>
+                        </div><!-- /.swiper-slide -->
+                        <div class="swiper-slide">
+                            <a href="#"><img src="assets/images/brand/brand-1-3.png" alt=""></a>
+                            <div class="brand-one__overly">
+                                <a href="#"><img src="assets/images/brand/overly-brand-1-3.png" alt=""></a>
+                            </div>
+                        </div><!-- /.swiper-slide -->
+                        <div class="swiper-slide">
+                            <a href="#"><img src="assets/images/brand/brand-1-4.png" alt=""></a>
+                            <div class="brand-one__overly">
+                                <a href="#"><img src="assets/images/brand/overly-brand-1-4.png" alt=""></a>
+                            </div>
+                        </div><!-- /.swiper-slide -->
+                        <div class="swiper-slide">
+                            <a href="#"><img src="assets/images/brand/brand-1-5.png" alt=""></a>
+                            <div class="brand-one__overly">
+                                <a href="#"><img src="assets/images/brand/overly-brand-1-5.png" alt=""></a>
+                            </div>
+                        </div><!-- /.swiper-slide -->
+                        <div class="swiper-slide">
+                            <a href="#"><img src="assets/images/brand/brand-1-1.png" alt=""></a>
+                            <div class="brand-one__overly">
+                                <a href="#"><img src="assets/images/brand/overly-brand-1-1.png" alt=""></a>
+                            </div>
+                        </div><!-- /.swiper-slide -->
+                        <div class="swiper-slide">
+                            <a href="#"><img src="assets/images/brand/brand-1-2.png" alt=""></a>
+                            <div class="brand-one__overly">
+                                <a href="#"><img src="assets/images/brand/overly-brand-1-2.png" alt=""></a>
+                            </div>
+                        </div><!-- /.swiper-slide -->
+                        <div class="swiper-slide">
+                            <a href="#"><img src="assets/images/brand/brand-1-3.png" alt=""></a>
+                            <div class="brand-one__overly">
+                                <a href="#"><img src="assets/images/brand/overly-brand-1-3.png" alt=""></a>
+                            </div>
+                        </div><!-- /.swiper-slide -->
+                        <div class="swiper-slide">
+                            <a href="#"><img src="assets/images/brand/brand-1-4.png" alt=""></a>
+                            <div class="brand-one__overly">
+                                <a href="#"><img src="assets/images/brand/overly-brand-1-4.png" alt=""></a>
+                            </div>
+                        </div><!-- /.swiper-slide -->
+                        <div class="swiper-slide">
+                            <a href="#"><img src="assets/images/brand/brand-1-5.png" alt=""></a>
+                            <div class="brand-one__overly">
+                                <a href="#"><img src="assets/images/brand/overly-brand-1-5.png" alt=""></a>
+                            </div>
+                        </div><!-- /.swiper-slide -->
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Brand One End--><!--Team One Start-->
+<section class="team-one team-two">
+            <div class="container">
+                <div class="section-title text-center">
+                    <span class="section-title__tagline">Our Team Member</span>
+                    <h2 class="section-title__title">We Best To Your Provide <br> of Team Member.</h2>
+                </div>
+                <div class="row">
+                    <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="100ms">
+                        <!--Team One Single-->
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/team/team-1-1.jpg" alt="">
+                            </div>
+                            <div class="team-one__content">
+                                <h4 class="team-one__name"><a href="team-details.html">Kavin Martin</a></h4>
+                                <p class="team-one__title">Ceo</p>
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                        <!--Team One Single-->
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/team/team-1-2.jpg" alt="">
+                            </div>
+                            <div class="team-one__content">
+                                <h4 class="team-one__name"><a href="team-details.html">David Malan</a></h4>
+                                <p class="team-one__title">Volunteer</p>
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 wow fadeInRight" data-wow-delay="300ms">
+                        <!--Team One Single-->
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/team/team-1-3.jpg" alt="">
+                            </div>
+                            <div class="team-one__content">
+                                <h4 class="team-one__name"><a href="team-details.html">David Hardson</a></h4>
+                                <p class="team-one__title">Motare doken</p>
+                                <div class="team-one__social">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Team One End--><!--Two Section Start-->
+<section class="two-section">
+            <div class="two-section__wrapper">
+                <div class="two-section__left wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms"
+                    style="background-image: url(assets/images/backgrounds/two-section-left-bg.jpg);">
+                    <div class="two-section__content-box">
+                        <p class="two-section__sub-title">I See the New Collection</p>
+                        <h3 class="two-section__title">Ecological Materials</h3>
+                        <a href="about.html" class="thm-btn two-section__btn-1">View All</a>
+                    </div>
+                </div>
+                <div class="two-section__right wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms"
+                    style="background-image: url(assets/images/backgrounds/two-section-right-bg.jpg);">
+                    <div class="two-section__content-box">
+                        <p class="two-section__sub-title">I Check All Promotions</p>
+                        <h3 class="two-section__title">Sustainable Objects</h3>
+                        <a href="about.html" class="thm-btn two-section__btn-2">See More</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Two Section Start--><!--Up Comming Event Two Start-->
+<section class="up-comming-event-two">
+            <div class="container">
+                <div class="section-title text-center">
+                    <span class="section-title__tagline">Our Recent events</span>
+                    <h2 class="section-title__title">We Best Popular To Join <br> Of Recents.</h2>
+                </div>
+                <div class="row">
+                    <div class="col-xl-8 col-lg-7">
+                        <div class="up-comming-event-two__left">
+
+                            <div class="up-comming-event-two__top">
+                                <ul class="tabs-button-box list-unstyled up-comming-event-two__list">
+                                    <li data-tab="#month-1" class="tab-btn-item active-btn-item">
+                                        <p>Dec <span>2019</span></p>
+                                    </li>
+                                    <li data-tab="#month-2" class="tab-btn-item">
+                                        <p>Jan <span>2020</span></p>
+                                    </li>
+                                    <li data-tab="#month-3" class="tab-btn-item">
+                                        <p>Feb <span>2021</span></p>
+                                    </li>
+                                    <li data-tab="#month-4" class="tab-btn-item">
+                                        <p>March <span>2022</span></p>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <div class="tabs-content-box">
+                                <!--Tab-->
+                                <div class="tab-content-box-item tab-content-box-item-active" id="month-1">
+                                    <div class="up-comming-event-two__bottom">
+                                        <div class="up-comming-event-two__single">
+                                            <div class="up-comming-event-two__location-box">
+                                                <h5 class="up-comming-event-two__location-title">Lorem ipsum dollar sit
+                                                    amet
+                                                </h5>
+                                                <ul class="list-unstyled up-comming-event-two__location-list">
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-place"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>In Sanfransico, CA</p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-back-in-time"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>08..00-16.00</p>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="up-comming-event-two__date-box">
+                                                <p>18</p>
+                                                <span>June</span>
+                                            </div>
+                                        </div>
+                                        <div class="up-comming-event-two__single">
+                                            <div class="up-comming-event-two__location-box">
+                                                <h5 class="up-comming-event-two__location-title">Lorem ipsum dollar sit
+                                                    amet
+                                                </h5>
+                                                <ul class="list-unstyled up-comming-event-two__location-list">
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-place"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>In Sanfransico, CA</p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-back-in-time"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>08..00-16.00</p>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="up-comming-event-two__date-box">
+                                                <p>18</p>
+                                                <span>June</span>
+                                            </div>
+                                        </div>
+                                        <div class="up-comming-event-two__single">
+                                            <div class="up-comming-event-two__location-box">
+                                                <h5 class="up-comming-event-two__location-title">Lorem ipsum dollar sit
+                                                    amet
+                                                </h5>
+                                                <ul class="list-unstyled up-comming-event-two__location-list">
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-place"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>In Sanfransico, CA</p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-back-in-time"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>08..00-16.00</p>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="up-comming-event-two__date-box">
+                                                <p>18</p>
+                                                <span>June</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--Tab-->
+                                <div class="tab-content-box-item" id="month-2">
+                                    <div class="up-comming-event-two__bottom">
+                                        <div class="up-comming-event-two__single">
+                                            <div class="up-comming-event-two__location-box">
+                                                <h5 class="up-comming-event-two__location-title">Lorem ipsum dollar sit
+                                                    amet
+                                                </h5>
+                                                <ul class="list-unstyled up-comming-event-two__location-list">
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-place"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>In Sanfransico, CA</p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-back-in-time"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>08..00-16.00</p>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="up-comming-event-two__date-box">
+                                                <p>18</p>
+                                                <span>June</span>
+                                            </div>
+                                        </div>
+                                        <div class="up-comming-event-two__single">
+                                            <div class="up-comming-event-two__location-box">
+                                                <h5 class="up-comming-event-two__location-title">Lorem ipsum dollar sit
+                                                    amet
+                                                </h5>
+                                                <ul class="list-unstyled up-comming-event-two__location-list">
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-place"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>In Sanfransico, CA</p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-back-in-time"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>08..00-16.00</p>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="up-comming-event-two__date-box">
+                                                <p>18</p>
+                                                <span>June</span>
+                                            </div>
+                                        </div>
+                                        <div class="up-comming-event-two__single">
+                                            <div class="up-comming-event-two__location-box">
+                                                <h5 class="up-comming-event-two__location-title">Lorem ipsum dollar sit
+                                                    amet
+                                                </h5>
+                                                <ul class="list-unstyled up-comming-event-two__location-list">
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-place"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>In Sanfransico, CA</p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-back-in-time"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>08..00-16.00</p>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="up-comming-event-two__date-box">
+                                                <p>18</p>
+                                                <span>June</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--Tab-->
+                                <div class="tab-content-box-item" id="month-3">
+                                    <div class="up-comming-event-two__bottom">
+                                        <div class="up-comming-event-two__single">
+                                            <div class="up-comming-event-two__location-box">
+                                                <h5 class="up-comming-event-two__location-title">Lorem ipsum dollar sit
+                                                    amet
+                                                </h5>
+                                                <ul class="list-unstyled up-comming-event-two__location-list">
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-place"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>In Sanfransico, CA</p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-back-in-time"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>08..00-16.00</p>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="up-comming-event-two__date-box">
+                                                <p>18</p>
+                                                <span>June</span>
+                                            </div>
+                                        </div>
+                                        <div class="up-comming-event-two__single">
+                                            <div class="up-comming-event-two__location-box">
+                                                <h5 class="up-comming-event-two__location-title">Lorem ipsum dollar sit
+                                                    amet
+                                                </h5>
+                                                <ul class="list-unstyled up-comming-event-two__location-list">
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-place"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>In Sanfransico, CA</p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-back-in-time"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>08..00-16.00</p>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="up-comming-event-two__date-box">
+                                                <p>18</p>
+                                                <span>June</span>
+                                            </div>
+                                        </div>
+                                        <div class="up-comming-event-two__single">
+                                            <div class="up-comming-event-two__location-box">
+                                                <h5 class="up-comming-event-two__location-title">Lorem ipsum dollar sit
+                                                    amet
+                                                </h5>
+                                                <ul class="list-unstyled up-comming-event-two__location-list">
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-place"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>In Sanfransico, CA</p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-back-in-time"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>08..00-16.00</p>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="up-comming-event-two__date-box">
+                                                <p>18</p>
+                                                <span>June</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--Tab-->
+                                <div class="tab-content-box-item" id="month-4">
+                                    <div class="up-comming-event-two__bottom">
+                                        <div class="up-comming-event-two__single">
+                                            <div class="up-comming-event-two__location-box">
+                                                <h5 class="up-comming-event-two__location-title">Lorem ipsum dollar sit
+                                                    amet
+                                                </h5>
+                                                <ul class="list-unstyled up-comming-event-two__location-list">
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-place"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>In Sanfransico, CA</p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-back-in-time"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>08..00-16.00</p>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="up-comming-event-two__date-box">
+                                                <p>18</p>
+                                                <span>June</span>
+                                            </div>
+                                        </div>
+                                        <div class="up-comming-event-two__single">
+                                            <div class="up-comming-event-two__location-box">
+                                                <h5 class="up-comming-event-two__location-title">Lorem ipsum dollar sit
+                                                    amet
+                                                </h5>
+                                                <ul class="list-unstyled up-comming-event-two__location-list">
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-place"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>In Sanfransico, CA</p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-back-in-time"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>08..00-16.00</p>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="up-comming-event-two__date-box">
+                                                <p>18</p>
+                                                <span>June</span>
+                                            </div>
+                                        </div>
+                                        <div class="up-comming-event-two__single">
+                                            <div class="up-comming-event-two__location-box">
+                                                <h5 class="up-comming-event-two__location-title">Lorem ipsum dollar sit
+                                                    amet
+                                                </h5>
+                                                <ul class="list-unstyled up-comming-event-two__location-list">
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-place"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>In Sanfransico, CA</p>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="icon">
+                                                            <span class="icon-back-in-time"></span>
+                                                        </div>
+                                                        <div class="text">
+                                                            <p>08..00-16.00</p>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="up-comming-event-two__date-box">
+                                                <p>18</p>
+                                                <span>June</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-5">
+                        <div class="up-comming-event-two__right">
+                            <div class="up-comming-event-two__img">
+                                <img src="assets/images/resources/up-comming-event-two-img.jpg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Up Comming Event Two End--><!--Help One Start-->
+<section class="help-one">
+            <div class="help-one-bg jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%"
+                style="background-image: url(assets/images/backgrounds/help-one-bg.jpg);"></div>
+            <div class="container">
+                <h3 class="help-one__title">How You Can Help Us?</h3>
+                <div class="row">
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="help-one__content-box">
+                            <div class="help-one__single">
+                                <div class="help-one__icon">
+                                    <span class="icon-donation-1"></span>
+                                </div>
+                                <div class="help-one__content">
+                                    <h4>Start investing in our volunteer group</h4>
+                                    <p>To make sure education of poor children While atever motivates you to host,your
+                                        participation has the.</p>
+                                </div>
+                            </div>
+                            <div class="help-one__single">
+                                <div class="help-one__icon">
+                                    <span class="icon-heart"></span>
+                                </div>
+                                <div class="help-one__content">
+                                    <h4>Childhood Education Development support</h4>
+                                    <p>To make sure education of poor children While atever motivates you to host,your
+                                        participation has the.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="help-one__content-box">
+                            <div class="help-one__single">
+                                <div class="help-one__icon">
+                                    <span class="icon-donation"></span>
+                                </div>
+                                <div class="help-one__content">
+                                    <h4>Because Everyone Deserves Clean Water</h4>
+                                    <p>To make sure education of poor children While atever motivates you to host,your
+                                        participation has the.</p>
+                                </div>
+                            </div>
+                            <div class="help-one__single">
+                                <div class="help-one__icon">
+                                    <span class="icon-bankruptcy"></span>
+                                </div>
+                                <div class="help-one__content">
+                                    <h4>Child Deserves Better Healthy Foods</h4>
+                                    <p>To make sure education of poor children While atever motivates you to host,your
+                                        participation has the.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Help One End--><!--Testimonial Two Start-->
+<section class="testimonial-two">
+            <div class="container">
+                <div class="section-title text-center">
+                    <span class="section-title__tagline">Our Customers Feedbacks
+                    </span>
+                    <h2 class="section-title__title">What Our Customers Are Talking <br> About Our Services
+                    </h2>
+                </div>
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="owl-carousel owl-theme thm-owl__carousel testimonial-two__carousel"
+                            data-owl-options='{
+                            "loop": true,
+                            "autoplay": true,
+                            "margin": 30,
+                            "nav": true,
+                            "dots": false,
+                            "smartSpeed": 500,
+                            "autoplayTimeout": 10000,
+                            "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+                            "responsive": {
+                                "0": {
+                                    "items": 1
+                                },
+                                "768": {
+                                    "items": 1
+                                },
+                                "991": {
+                                    "items": 2
+                                },
+                                "1200": {
+                                    "items": 2
+                                }
+                            }
+                        }'>
+                            <!--Testimonial Two single-->
+                            <div class="testimonial-two__single">
+                                <div class="testimonial-two__img">
+                                    <img src="assets/images/testimonial/testimonial-2-1.jpg" alt="">
+                                    <div class="testimonial-two__quote">
+                                        <span class="icon-quote"></span>
+                                    </div>
+                                </div>
+                                <div class="testimonial-two__content">
+                                    <div class="testimonial-two__star">
+                                        <span class="fas fa-star"></span>
+                                        <span class="fas fa-star"></span>
+                                        <span class="fas fa-star"></span>
+                                        <span class="fas fa-star"></span>
+                                        <span class="fas fa-star clr-gray"></span>
+                                    </div>
+                                    <p class="testimonial-two__text">Lorem ipsum dolor sit amet,elit, sed do eiusmod
+                                        tempor incididunt ut labore et dolore aliqu</p>
+                                    <div class="testimonial-two__client-info">
+                                        <h4 class="testimonial-two__client-name">Kavin martin</h4>
+                                        <p class="testimonial-two__client-title">Customer</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--Testimonial Two single-->
+                            <div class="testimonial-two__single">
+                                <div class="testimonial-two__img">
+                                    <img src="assets/images/testimonial/testimonial-2-2.jpg" alt="">
+                                    <div class="testimonial-two__quote">
+                                        <span class="icon-quote"></span>
+                                    </div>
+                                </div>
+                                <div class="testimonial-two__content">
+                                    <div class="testimonial-two__star">
+                                        <span class="fas fa-star"></span>
+                                        <span class="fas fa-star"></span>
+                                        <span class="fas fa-star"></span>
+                                        <span class="fas fa-star"></span>
+                                        <span class="fas fa-star clr-gray"></span>
+                                    </div>
+                                    <p class="testimonial-two__text">Lorem ipsum dolor sit amet,elit, sed do eiusmod
+                                        tempor incididunt ut labore et dolore aliqu</p>
+                                    <div class="testimonial-two__client-info">
+                                        <h4 class="testimonial-two__client-name">Sarha albart</h4>
+                                        <p class="testimonial-two__client-title">Customer</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--Testimonial Two single-->
+                            <div class="testimonial-two__single">
+                                <div class="testimonial-two__img">
+                                    <img src="assets/images/testimonial/testimonial-2-3.jpg" alt="">
+                                    <div class="testimonial-two__quote">
+                                        <span class="icon-quote"></span>
+                                    </div>
+                                </div>
+                                <div class="testimonial-two__content">
+                                    <div class="testimonial-two__star">
+                                        <span class="fas fa-star"></span>
+                                        <span class="fas fa-star"></span>
+                                        <span class="fas fa-star"></span>
+                                        <span class="fas fa-star"></span>
+                                        <span class="fas fa-star clr-gray"></span>
+                                    </div>
+                                    <p class="testimonial-two__text">Lorem ipsum dolor sit amet,elit, sed do eiusmod
+                                        tempor incididunt ut labore et dolore aliqu</p>
+                                    <div class="testimonial-two__client-info">
+                                        <h4 class="testimonial-two__client-name">David conway</h4>
+                                        <p class="testimonial-two__client-title">Customer</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Testimonial Two End--><!--Blog Three End-->
+<section class="blog-three">
+            <div class="container">
+                <div class="section-title text-center">
+                    <span class="section-title__tagline">Our Blog Post</span>
+                    <h2 class="section-title__title">We Best To Largest <br> Of This Blog.</h2>
+                </div>
+                <div class="row">
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                        <!--Blog Three Single-->
+                        <div class="blog-three__single">
+                            <div class="blog-three__img">
+                                <img src="assets/images/blog/blog-1-1.jpg" alt="">
+                            </div>
+                            <div class="blog-three__content">
+                                <ul class="list-unstyled blog-three__meta">
+                                    <li><a href="blog-details.html"><i class="far fa-clock"></i> by Admin </a>
+                                    </li>
+                                    <li><a href="blog-details.html"><i class="far fa-calendar"></i> May 20, 2022</a>
+                                    </li>
+                                </ul>
+                                <h3 class="blog-three__title"><a href="blog-details.html">Bring to the table win-win
+                                        survival</a></h3>
+                                <div class="blog-three__person">
+                                    <div class="blog-three__person-img">
+                                        <img src="assets/images/blog/blog-3-person-img-1.jpg" alt="">
+                                    </div>
+                                    <div class="blog-three__person-name">
+                                        <p><span>By</span> Kevin Martin</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                        <!--Blog Three Single-->
+                        <div class="blog-three__single">
+                            <div class="blog-three__img">
+                                <img src="assets/images/blog/blog-1-2.jpg" alt="">
+                            </div>
+                            <div class="blog-three__content">
+                                <ul class="list-unstyled blog-three__meta">
+                                    <li><a href="blog-details.html"><i class="far fa-clock"></i> by Admin </a>
+                                    </li>
+                                    <li><a href="blog-details.html"><i class="far fa-calendar"></i> May 20, 2022</a>
+                                    </li>
+                                </ul>
+                                <h3 class="blog-three__title"><a href="blog-details.html">will provide an ats resume
+                                        writing and Blog.</a></h3>
+                                <div class="blog-three__person">
+                                    <div class="blog-three__person-img">
+                                        <img src="assets/images/blog/blog-3-person-img-2.jpg" alt="">
+                                    </div>
+                                    <div class="blog-three__person-name">
+                                        <p><span>By</span> Jessica Brown</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
+                        <!--Blog Three Single-->
+                        <div class="blog-three__single">
+                            <div class="blog-three__img">
+                                <img src="assets/images/blog/blog-1-3.jpg" alt="">
+                            </div>
+                            <div class="blog-three__content">
+                                <ul class="list-unstyled blog-three__meta">
+                                    <li><a href="blog-details.html"><i class="far fa-clock"></i> by Admin </a>
+                                    </li>
+                                    <li><a href="blog-details.html"><i class="far fa-calendar"></i> May 20, 2022</a>
+                                    </li>
+                                </ul>
+                                <h3 class="blog-three__title"><a href="blog-details.html">Leverage agile frameworks to
+                                        provide</a></h3>
+                                <div class="blog-three__person">
+                                    <div class="blog-three__person-img">
+                                        <img src="assets/images/blog/blog-3-person-img-3.jpg" alt="">
+                                    </div>
+                                    <div class="blog-three__person-name">
+                                        <p><span>By</span> Kevin Coper</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Blog Three End--><!--CTA One Start-->
+<section class="cta-one">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="cta-one__inner">
+                            <div class="cta-one__left">
+                                <div class="cta-one__icon">
+                                    <span class="icon-help"></span>
+                                </div>
+                                <h2 class="cta-one__title">Let’s Make a Difference in <br> the Lives of Others</h2>
+                            </div>
+                            <div class="cta-one__right">
+                                <a href="team-details.html" class="thm-btn cta-one__btn">become a volunteer</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--CTA One End-->
+ <!--Site Footer Start-->
+ <footer class="site-footer-one">
+            <div class="site-footer-one__top">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+                            <div class="footer-widget__column footer-widget-one__about">
+                                <div class="footer-widget-one__about-logo">
+                                    <a href="index-2.html"><img src="assets/images/resources/footer-logo.png" alt=""></a>
+                                </div>
+                                <p class="footer-widget-one__about-text">
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam iaculis lorem augue, at
+                                    dapibus quam aliquet ex...
+                                </p>
+                                <ul class="list-unstyled footer-widget-one__list">
+                                    <li>
+                                        <div class="icon">
+                                            <span class="icon-place"></span>
+                                        </div>
+                                        <div class="text">
+                                            <p>13/A, Miranda Halim City.</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="icon">
+                                            <span class="icon-envelope"></span>
+                                        </div>
+                                        <div class="text">
+                                            <p><a href="mailto:demo@example.com">demo@example.com</a></p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="icon">
+                                            <span class="icon-call"></span>
+                                        </div>
+                                        <div class="text">
+                                            <p><a href="tel:09969569535">099 695 695 35</a></p>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
+                            <div class="footer-widget__column footer-widget-one__gallery clearfix">
+                                <h3 class="footer-widget-one__title">Gallery</h3>
+                                <ul class="footer-widget-one__gallery-list list-unstyled clearfix">
+                                    <li>
+                                        <div class="footer-widget-one__gallery-img">
+                                            <img src="assets/images/resources/footer-widget-one-gallery-1.jpg" alt="">
+                                            <a href="project-details.html"><span class="fa fa-link"></span></a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="footer-widget-one__gallery-img">
+                                            <img src="assets/images/resources/footer-widget-one-gallery-2.jpg" alt="">
+                                            <a href="project-details.html"><span class="fa fa-link"></span></a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="footer-widget-one__gallery-img">
+                                            <img src="assets/images/resources/footer-widget-one-gallery-3.jpg" alt="">
+                                            <a href="project-details.html"><span class="fa fa-link"></span></a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="footer-widget-one__gallery-img">
+                                            <img src="assets/images/resources/footer-widget-one-gallery-4.jpg" alt="">
+                                            <a href="project-details.html"><span class="fa fa-link"></span></a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="footer-widget-one__gallery-img">
+                                            <img src="assets/images/resources/footer-widget-one-gallery-5.jpg" alt="">
+                                            <a href="project-details.html"><span class="fa fa-link"></span></a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="footer-widget-one__gallery-img">
+                                            <img src="assets/images/resources/footer-widget-one-gallery-6.jpg" alt="">
+                                            <a href="project-details.html"><span class="fa fa-link"></span></a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="footer-widget-one__gallery-img">
+                                            <img src="assets/images/resources/footer-widget-one-gallery-7.jpg" alt="">
+                                            <a href="project-details.html"><span class="fa fa-link"></span></a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="footer-widget-one__gallery-img">
+                                            <img src="assets/images/resources/footer-widget-one-gallery-8.jpg" alt="">
+                                            <a href="project-details.html"><span class="fa fa-link"></span></a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="footer-widget-one__gallery-img">
+                                            <img src="assets/images/resources/footer-widget-one-gallery-9.jpg" alt="">
+                                            <a href="project-details.html"><span class="fa fa-link"></span></a>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
+                            <div class="footer-widget__column footer-widget-one__latest-works clearfix">
+                                <h3 class="footer-widget-one__title">Latest News</h3>
+                                <ul class="footer-widget-one__latest-works-list list-unstyled clearfix">
+                                    <li>
+                                        <div class="footer-widget-one__latest-works-content">
+                                            <h4 class="footer-widget-one__latest-works-title">
+                                                <a href="blog-details.html">Change your Life Through Education</a>
+                                            </h4>
+                                            <p class="footer-widget-one__latest-works-date">
+                                                July 29, 20222
+                                            </p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="footer-widget-one__latest-works-content">
+                                            <h4 class="footer-widget-one__latest-works-title">
+                                                <a href="blog-details.html">Donate your woolens this winter</a>
+                                            </h4>
+                                            <p class="footer-widget-one__latest-works-date">
+                                                July 29, 20222
+                                            </p>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+                            <div class="footer-widget__column footer-widget-one__twitter-feed clearfix">
+                                <h3 class="footer-widget-one__title">Twitter Feed</h3>
+                                <div class="owl-carousel owl-theme thm-owl__carousel footer-widget-one__twitter-feed-content"
+                                    data-owl-options='{
+                                    "loop": true,
+                                    "autoplay": true,
+                                    "margin": 30,
+                                    "nav": false,
+                                    "dots": true,
+                                    "smartSpeed": 500,
+                                    "autoplayTimeout": 10000,
+                                    "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+                                    "responsive": {
+                                        "0": {
+                                            "items": 1
+                                        },
+                                        "768": {
+                                            "items": 1
+                                        },
+                                        "991": {
+                                            "items": 1
+                                        },
+                                        "1200": {
+                                            "items": 1
+                                        }
+                                    }
+                                }'>
+                                    <div class="footer-widget-one__twitter-feed-single">
+                                        <p class="footer-widget-one__twitter-feed-text">Lorem ipsum is simply free text
+                                            dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor
+                                            incididunt <a href="#">http://t.twitter.com</a></p>
+                                        <div class="footer-widget-one__twitter-feed-bottom">
+                                            <div class="footer-widget-one__twitter-feed-icon">
+                                                <span class="fab fa-twitter"></span>
+                                            </div>
+                                            <div class="footer-widget-one__twitter-feed-details">
+                                                <h5 class="footer-widget-one__twitter-feed-name">John Smith
+                                                    <span>@unicktheme</span></h5>
+                                                <p class="footer-widget-one__twitter-feed-time">18 Hours Ago</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="footer-widget-one__twitter-feed-single">
+                                        <p class="footer-widget-one__twitter-feed-text">Lorem ipsum is simply free text
+                                            dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor
+                                            incididunt <a href="#">http://t.twitter.com</a></p>
+                                        <div class="footer-widget-one__twitter-feed-bottom">
+                                            <div class="footer-widget-one__twitter-feed-icon">
+                                                <span class="fab fa-twitter"></span>
+                                            </div>
+                                            <div class="footer-widget-one__twitter-feed-details">
+                                                <h5 class="footer-widget-one__twitter-feed-name">Kavin Smith
+                                                    <span>@unicktheme</span></h5>
+                                                <p class="footer-widget-one__twitter-feed-time">18 Hours Ago</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="footer-widget-one__twitter-feed-single">
+                                        <p class="footer-widget-one__twitter-feed-text">Lorem ipsum is simply free text
+                                            dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor
+                                            incididunt <a href="#">http://t.twitter.com</a></p>
+                                        <div class="footer-widget-one__twitter-feed-bottom">
+                                            <div class="footer-widget-one__twitter-feed-icon">
+                                                <span class="fab fa-twitter"></span>
+                                            </div>
+                                            <div class="footer-widget-one__twitter-feed-details">
+                                                <h5 class="footer-widget-one__twitter-feed-name">Sara Albart
+                                                    <span>@unicktheme</span></h5>
+                                                <p class="footer-widget-one__twitter-feed-time">18 Hours Ago</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="site-footer__bottom">
+                <div class="container">
+                    <div class="site-footer__bottom-inner">
+                        <p class="site-footer__bottom-text">© 2025 Copyright by <a
+                                href="https://themeforest.net/user/kitmama">kitmama</a></p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!--Site Footer End--></div><!-- /.page-wrapper -->
+
+
+<div class="mobile-nav__wrapper">
+        <div class="mobile-nav__overlay mobile-nav__toggler"></div>
+        <!-- /.mobile-nav__overlay -->
+        <div class="mobile-nav__content">
+            <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
+
+            <div class="logo-box">
+                <a href="index-2.html" aria-label="logo image"><img src="assets/images/resources/footer-logo.png"
+                        width="155" alt="" /></a>
+            </div>
+            <!-- /.logo-box -->
+            <div class="mobile-nav__container"></div>
+            <!-- /.mobile-nav__container -->
+
+            <ul class="mobile-nav__contact list-unstyled">
+                <li>
+                    <i class="fa fa-envelope"></i>
+                    <a href="mailto:needhelp@sopot.com">needhelp@sopot.com</a>
+                </li>
+                <li>
+                    <i class="fa fa-phone-alt"></i>
+                    <a href="tel:666-888-0000">666 888 0000</a>
+                </li>
+            </ul><!-- /.mobile-nav__contact -->
+            <div class="mobile-nav__top">
+                <div class="mobile-nav__social">
+                    <a href="#" class="fab fa-twitter"></a>
+                    <a href="#" class="fab fa-facebook-square"></a>
+                    <a href="#" class="fab fa-pinterest-p"></a>
+                    <a href="#" class="fab fa-instagram"></a>
+                </div><!-- /.mobile-nav__social -->
+            </div><!-- /.mobile-nav__top -->
+        </div>
+        <!-- /.mobile-nav__content -->
+    </div>
+    <!-- /.mobile-nav__wrapper --><div class="search-popup">
+        <div class="search-popup__overlay search-toggler"></div>
+        <!-- /.search-popup__overlay -->
+        <div class="search-popup__content">
+            <form action="#">
+                <label for="search" class="sr-only">search here</label><!-- /.sr-only -->
+                <input type="text" id="search" placeholder="Search Here..." />
+                <button type="submit" aria-label="search submit" class="thm-btn">
+                    <i class="icon-search-interface-symbol"></i>
+                </button>
+            </form>
+        </div>
+        <!-- /.search-popup__content -->
+    </div>
+    <!-- /.search-popup --><a href="#" data-target="html" class="scroll-to-target scroll-to-top"><i class="fa fa-angle-up"></i></a>    <script src="assets/vendors/jquery/jquery-3.7.1.min.js"></script>
+    <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendors/jarallax/jarallax.min.js"></script>
+    <script src="assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js"></script>
+    <script src="assets/vendors/jquery-appear/jquery.appear.min.js"></script>
+    <script src="assets/vendors/jquery-circle-progress/jquery.circle-progress.min.js"></script>
+    <script src="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="assets/vendors/jquery-validate/jquery.validate.min.js"></script>
+    <script src="assets/vendors/nouislider/nouislider.min.js"></script>
+    <script src="assets/vendors/odometer/odometer.min.js"></script>
+    <script src="assets/vendors/swiper/swiper.min.js"></script>
+    <script src="assets/vendors/tiny-slider/tiny-slider.min.js"></script>
+    <script src="assets/vendors/wnumb/wNumb.min.js"></script>
+    <script src="assets/vendors/wow/wow.js"></script>
+    <script src="assets/vendors/isotope/isotope.js"></script>
+    <script src="assets/vendors/countdown/countdown.min.js"></script>
+    <script src="assets/vendors/owl-carousel/owl.carousel.min.js"></script>
+    <script src="assets/vendors/bxslider/jquery.bxslider.min.js"></script>
+    <script src="assets/vendors/bootstrap-select/js/bootstrap-select.min.js"></script>
+    <script src="assets/vendors/vegas/vegas.min.js"></script>
+    <script src="assets/vendors/jquery-ui/jquery-ui.js"></script>
+    <script src="assets/vendors/timepicker/timePicker.js"></script>
+
+    <!-- template js -->
+    <script src="assets/js/sopot.js"></script></body>
+
+
+<!-- Mirrored from php.kitmama.top/sopot/index3.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 24 Dec 2025 07:23:04 GMT -->
+</html>
