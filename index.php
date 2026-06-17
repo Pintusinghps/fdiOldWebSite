@@ -25,7 +25,7 @@ include('includes/header.php');
                     <!--Start Swiper Slide Single-->
                     <div class="swiper-slide">
                         <div class="image-layer"
-                            style="background-image: url(assets/images/banner-10001.jpg);"></div>
+                            style="background-image: url(assets/images/banner/banner-1.jpg);"></div>
                         <div class="main-slider-shape-1"></div>
                         <div class="main-slider-shape-2"></div>
                         <div class="main-slider-shape-3 zoominout"></div>
@@ -59,7 +59,7 @@ include('includes/header.php');
                     <!--Start Swiper Slide Single-->
                     <div class="swiper-slide">
                         <div class="image-layer"
-                            style="background-image: url(assets/images/banner-10001.jpg);"></div>
+                            style="background-image: url(assets/images/banner/banner-1.jpg);"></div>
                         <div class="main-slider-shape-1"></div>
                         <div class="main-slider-shape-2"></div>
                         <div class="main-slider-shape-3 zoominout"></div>
@@ -93,7 +93,7 @@ include('includes/header.php');
                     <!--Start Swiper Slide Single-->
                     <div class="swiper-slide">
                         <div class="image-layer"
-                            style="background-image: url(assets/images/banner-10001.jpg);"></div>
+                            style="background-image: url(assets/images/banner/banner-1.jpg);"></div>
                         <div class="main-slider-shape-1"></div>
                         <div class="main-slider-shape-2"></div>
                         <div class="main-slider-shape-3 zoominout"></div>
